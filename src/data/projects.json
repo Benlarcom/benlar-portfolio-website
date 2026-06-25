@@ -1,0 +1,328 @@
+[
+  {
+    "title": "Database Development (DBD151)",
+    "yearCategory": "2021",
+    "summary": "Built and modeled databases; applied concepts from database design and development.",
+    "details": "Studied Database Development (DBD151) with focus on designing, developing, and working with database structures and related concepts.",
+    "role": "Student — DBD151",
+    "tech": ["Databases", "Database Development"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/dbd151.png", "alt": "Database Development (DBD151)" }
+  },
+  {
+    "title": "Information Systems (INF151)",
+    "yearCategory": "2021",
+    "summary": "Learned how information systems support organizations and business processes.",
+    "details": "Studied Information Systems (INF151) covering fundamentals of information systems and their role in delivering organizational value.",
+    "role": "Student — INF151",
+    "tech": ["Information Systems", "Systems Analysis"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/inf151.png", "alt": "Information Systems (INF151)" }
+  },
+  {
+    "title": "Innovation and Leadership (INL101)",
+    "yearCategory": "2021",
+    "summary": "Explored innovation concepts and leadership fundamentals.",
+    "details": "Studied Innovation and Leadership (INL101) to understand innovation approaches and how leadership drives change.",
+    "role": "Student — INL101",
+    "tech": ["Innovation", "Leadership"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/inl101.png", "alt": "Innovation and Leadership (INL101)" }
+  },
+  {
+    "title": "Innovation and Leadership (INL102)",
+    "yearCategory": "2021",
+    "summary": "Applied innovation and leadership practices in structured learning activities.",
+    "details": "Studied Innovation and Leadership (INL102) focusing on practical applications of innovation and leadership thinking.",
+    "role": "Student — INL102",
+    "tech": ["Innovation", "Leadership"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/inl102.png", "alt": "Innovation and Leadership (INL102)" }
+  },
+  {
+    "title": "Network Development (NWD151)",
+    "yearCategory": "2021",
+    "summary": "Learned networking fundamentals and network development concepts.",
+    "details": "Studied Network Development (NWD151) covering core networking principles and approaches to building/understanding networks.",
+    "role": "Student — NWD151",
+    "tech": ["Networking", "Network Development"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/nwd151.png", "alt": "Network Development (NWD151)" }
+  },
+  {
+    "title": "Web Programming (WPR151)",
+    "yearCategory": "2021",
+    "summary": "Developed web programming skills using modern web development concepts.",
+    "details": "Studied Web Programming (WPR151) to strengthen web development fundamentals and practical programming ability.",
+    "role": "Student — WPR151",
+    "tech": ["Web Programming", "Frontend"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/wpr151.png", "alt": "Web Programming (WPR151)" }
+  },
+  {
+    "title": "Business Management & Entrepreneurship 161 (BME161)",
+    "yearCategory": "2022",
+    "summary": "Studied business management and entrepreneurship concepts.",
+    "details": "Completed Business Management & Entrepreneurship 161 focusing on fundamentals of business management and entrepreneurship.",
+    "role": "Student — BME161",
+    "tech": ["Business Management", "Entrepreneurship"],
+    "result": "71",
+    "date": "12/09/2022",
+    "credits": "8",
+    "status": "Pass",
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/bme161.png", "alt": "Business Management & Entrepreneurship 161 (BME161)" }
+  },
+  {
+    "title": "Business Communication 161 (BUC161)",
+    "yearCategory": "2022",
+    "summary": "Improved business communication skills for professional contexts.",
+    "details": "Studied Business Communication 161 to strengthen professional writing, speaking, and communication practices in business settings.",
+    "role": "Student — BUC161",
+    "tech": ["Business Communication"],
+    "result": "58",
+    "date": "07/04/2022",
+    "credits": "8",
+    "status": "Pass",
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/buc161.png", "alt": "Business Communication 161 (BUC161)" }
+  },
+  {
+    "title": "End-User Computing 161 (EUC161)",
+    "yearCategory": "2022",
+    "summary": "Built practical end-user computing knowledge and skills.",
+    "details": "Studied End-User Computing 161 covering core tools and practices used by end users in modern computing environments.",
+    "role": "Student — EUC161",
+    "tech": ["End-User Computing", "Productivity Tools"],
+    "result": "86",
+    "date": "06/04/2022",
+    "credits": "4",
+    "status": "Pass",
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/euc161.png", "alt": "End-User Computing 161 (EUC161)" }
+  },
+  {
+    "title": "Operating Systems 251 (OPS251)",
+    "yearCategory": "2022",
+    "summary": "Learned operating system concepts and their practical use.",
+    "details": "Studied Operating Systems 251 focusing on core OS principles and system behavior.",
+    "role": "Student — OPS251",
+    "tech": ["Operating Systems"],
+    "result": "84",
+    "date": "06/04/2022",
+    "credits": "7",
+    "status": "Pass",
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/ops251.png", "alt": "Operating Systems 251 (OPS251)" }
+  },
+  {
+    "title": "Project Management 251 (PMM251)",
+    "yearCategory": "2022",
+    "summary": "Developed skills in project management and planning.",
+    "details": "Studied Project Management 251 covering project planning, execution, monitoring, and management practices.",
+    "role": "Student — PMM251",
+    "tech": ["Project Management"],
+    "result": "67",
+    "date": "15/04/2022",
+    "credits": "7",
+    "status": "Pass",
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/pmm251.png", "alt": "Project Management 251 (PMM251)" }
+  },
+  {
+    "title": "Security 251 (SEC251)",
+    "yearCategory": "2022",
+    "summary": "Learned security concepts and practical security approaches.",
+    "details": "Studied Security 251 focusing on core security principles and related practices.",
+    "role": "Student — SEC251",
+    "tech": ["Security"],
+    "result": "84",
+    "date": "08/04/2022",
+    "credits": "8",
+    "status": "Pass",
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/sec251.png", "alt": "Security 251 (SEC251)" }
+  },
+    {
+    "title": "Database Development (DBD261)",
+    "yearCategory": "2023",
+    "summary": "Advanced database development concepts and practical implementation.",
+    "details": "Studied Database Development (DBD261) focusing on building and working with database structures and related development practices.",
+    "role": "Student — DBD261",
+    "tech": ["Databases", "Database Development"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/dbd261.png", "alt": "Database Development (DBD261)" }
+  },
+  {
+    "title": "Enterprise Systems (ERP261)",
+    "yearCategory": "2023",
+    "summary": "Learned how enterprise systems support business processes.",
+    "details": "Studied Enterprise Systems (ERP261) covering core concepts and how enterprise software supports organizational operations.",
+    "role": "Student — ERP261",
+    "tech": ["Enterprise Systems", "Business Systems"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/erp261.png", "alt": "Enterprise Systems (ERP261)" }
+  },
+  {
+    "title": "Programming (PRG161)",
+    "yearCategory": "2023",
+    "summary": "Strengthened programming fundamentals and practical development skills.",
+    "details": "Studied Programming (PRG161) focusing on core programming concepts, problem solving, and practical coding tasks.",
+    "role": "Student — PRG161",
+    "tech": ["Programming"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/prg161.png", "alt": "Programming (PRG161)" }
+  },
+  {
+    "title": "Programming (PRG261)",
+    "yearCategory": "2023",
+    "summary": "Advanced programming with a focus on building reliable solutions.",
+    "details": "Studied Programming (PRG261) covering higher-level programming concepts, implementing features, and structured development practices.",
+    "role": "Student — PRG261",
+    "tech": ["Programming"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/prg261.png", "alt": "Programming (PRG261)" }
+  },
+  {
+    "title": "Software Analysis & Design (SWA261)",
+    "yearCategory": "2023",
+    "summary": "Applied analysis and design techniques to software development.",
+    "details": "Studied Software Analysis & Design (SWA261) focusing on requirements, system modeling, and design approaches for software solutions.",
+    "role": "Student — SWA261",
+    "tech": ["Software Analysis", "Software Design"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/swa261.png", "alt": "Software Analysis & Design (SWA261)" }
+  },
+  {
+    "title": "Software Testing (SWT261)",
+    "yearCategory": "2023",
+    "summary": "Learned software testing strategies and quality assurance practices.",
+    "details": "Studied Software Testing (SWT261) covering test planning, test cases, and methods to validate software behavior.",
+    "role": "Student — SWT261",
+    "tech": ["Software Testing", "QA"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/swt261.png", "alt": "Software Testing (SWT261)" }
+  },
+  {
+    "title": "Software Testing (SWT262)",
+    "yearCategory": "2023",
+    "summary": "Advanced testing methods and test execution practices.",
+    "details": "Studied Software Testing (SWT262) focusing on deeper testing techniques and applying them to software validation.",
+    "role": "Student — SWT262",
+    "tech": ["Software Testing", "QA"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/swt262.png", "alt": "Software Testing (SWT262)" }
+  },
+  {
+    "title": "Web Programming (WPR261)",
+    "yearCategory": "2023",
+    "summary": "Built web programming skills using modern web development concepts.",
+    "details": "Studied Web Programming (WPR261) to strengthen web development fundamentals and practical programming ability for the web.",
+    "role": "Student — WPR261",
+    "tech": ["Web Programming", "Frontend"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/wpr261.png", "alt": "Web Programming (WPR261)" }
+  },
+  {
+    "title": "IT Law & Ethics (ILE261)",
+    "yearCategory": "2024",
+    "summary": "Explored legal and ethical principles in information technology.",
+    "details": "Studied IT Law & Ethics (ILE261) focusing on regulations, professional ethics, and responsible technology use.",
+    "role": "Student — ILE261",
+    "tech": ["IT Law", "Ethics"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/ile261.png", "alt": "IT Law & Ethics (ILE261)" }
+  },
+  {
+    "title": "Internet of Things (IOT161)",
+    "yearCategory": "2024",
+    "summary": "Learned core IoT concepts and how connected devices work.",
+    "details": "Studied Internet of Things (IOT161) covering IoT fundamentals, sensors/devices, connectivity, and related applications.",
+    "role": "Student — IOT161",
+    "tech": ["IoT", "Connected Systems"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/iot161.png", "alt": "Internet of Things (IOT161)" }
+  },
+  {
+    "title": "Programming (PRG361)",
+    "yearCategory": "2024",
+    "summary": "Advanced programming skills for building structured solutions.",
+    "details": "Studied Programming (PRG361) focusing on implementing reliable solutions using advanced programming concepts.",
+    "role": "Student — PRG361",
+    "tech": ["Programming"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/prg361.png", "alt": "Programming (PRG361)" }
+  },
+  {
+    "title": "Programming Principles (PRP161)",
+    "yearCategory": "2024",
+    "summary": "Built strong programming principles and problem-solving fundamentals.",
+    "details": "Studied Programming Principles (PRP161) covering fundamental concepts that support writing correct, maintainable code.",
+    "role": "Student — PRP161",
+    "tech": ["Programming Principles"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/prp161.png", "alt": "Programming Principles (PRP161)" }
+  },
+  {
+    "title": "Problem Solving (PRS161)",
+    "yearCategory": "2024",
+    "summary": "Developed analytical and computational problem-solving skills.",
+    "details": "Studied Problem Solving (PRS161) focusing on structured reasoning, decomposition, and solving approaches.",
+    "role": "Student — PRS161",
+    "tech": ["Problem Solving"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/prs161.png", "alt": "Problem Solving (PRS161)" }
+  },
+  {
+    "title": "Scripting & Syntax (SSX361)",
+    "yearCategory": "2024",
+    "summary": "Strengthened scripting and syntax-focused programming skills.",
+    "details": "Studied Scripting & Syntax (SSX361) to improve ability to write and understand scripts using correct language syntax and patterns.",
+    "role": "Student — SSX361",
+    "tech": ["Scripting"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/ssx361.png", "alt": "Scripting & Syntax (SSX361)" }
+  },
+  {
+    "title": "Software Analysis & Design (SWA361)",
+    "yearCategory": "2024",
+    "summary": "Applied software analysis and design techniques to system development.",
+    "details": "Studied Software Analysis & Design (SWA361) focusing on requirements analysis, modeling, and designing software solutions.",
+    "role": "Student — SWA361",
+    "tech": ["Software Analysis", "Software Design"],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/swa361.png", "alt": "Software Analysis & Design (SWA361)" }
+  },
+  {
+    "title": "Business Management (BUM151) MODULE",
+    "yearCategory": "Extra-Curriculum",
+    "summary": "Studied Business Management concepts including value chains, functional areas, organizational environments, entrepreneurship, operations and logistics, marketing strategy, financial management, HR management, and e-business/e-management/e-ethics.",
+    "details": "Subject outcomes included defining value chain; listing functional areas; explaining needs in the business cycle; describing the free market system and need satisfaction institutions; explaining the organization as a system with value-adding elements; adding competitive value to a business; explaining the environment of the organization (international, macro, market, micro); and applying entrepreneurial concepts (characteristics/motivation, routes, entrepreneurial process, stages of business growth, and business ownership forms with/without legal personality). Students also covered contractual and statutory establishment requirements, location and premises layout, management skills and roles, planning and organizing concepts, organizational design, leadership principles, and types of control. Functional management topics included managerial decision-making, competitive advantage, purchasing objectives and purchasing cycle, transport modes, warehousing uses, inventory management and costs, production/operations management tasks, production layouts, quality control development, production/operations aids, outbound logistics, research and development, marketing concepts and orientations, customer service, and customer needs. Financial management topics included financial measurement/reporting, performance analysis scope, interrelationship of financial management in the organization/value chain context, budget planning and control, asset and working capital management, and income appropriation. Human resources covered HR planning/provision and retention, governance affecting HRM, and e-business/e-management, e-information evaluation, e-ethical technology trends, plus e-management challenges and opportunities. Skills emphasized illustrating and analyzing the value chain, comparing environments, applying the entrepreneurial process, applying planning/organizing/control and managerial decision-making, evaluating purchasing and marketing orientations, and assessing HR provision and e-business categories.",
+    "role": "Student / Learner (Business Management module)",
+    "tech": [
+      "Business Management",
+      "Value Chain",
+      "Operations",
+      "Finance",
+      "Marketing",
+      "Human Resources",
+      "Entrepreneurship",
+      "E-Business"
+    ],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/bum151.png", "alt": "Business Management (BUM151) module" }
+  },
+  {
+    "title": "Login Form",
+    "yearCategory": "Extra-Curriculum",
+    "summary": "Worked on a Login feature using plain HTML + CSS.",
+    "details": "Improving skills.",
+    "role": "Unemployed",
+    "tech": [
+      "Self-learning",
+      "Continuous Learning"
+    ],
+    "links": { "github": "", "demo": "" },
+    "image": { "src": "/images/bum151.png", "alt": "Static login form." }
+  }
+]

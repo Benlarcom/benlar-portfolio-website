@@ -1,0 +1,50 @@
+/* Hide desktop nav/right on small screens */
+.headerRightMobile { display: none; }
+.mobileMenu { display: none; }
+
+/* Mobile menu icon + Get Started visible */
+@media (max-width: 768px) {
+  .nav.navCenter,
+  .headerRight {
+    display: none;
+  }
+
+  .headerRightMobile {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .menuIconBtn {
+    background: transparent;
+    border: 0;
+    color: #fff;
+    cursor: pointer;
+    padding: 8px;
+  }
+
+  /* Mobile menu overlay/dropdown */
+  .mobileMenu {
+    display: block;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.25s ease;
+  }
+
+  .mobileMenu.open {
+    max-height: 320px; /* enough for links + CTA */
+  }
+
+  .mobileNav {
+    padding: 14px 16px;
+  }
+
+  .mobileNav .navLink {
+    display: block;
+    padding: 10px 8px;
+  }
+
+  .mobileCta {
+    margin-top: 10px;
+  }
+}
